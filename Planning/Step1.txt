@@ -1,0 +1,17 @@
+STEP1: DEFINE THE PROJECT
+
+Define WHO the website is for
+
+  For a client 
+
+
+Define WHAT the website is for
+
+  Business goal: Selling monthly food subscription
+  User goal: Eating well effortlessly, without spending a
+  lot of time and money
+
+Define target audience
+
+  Busy people who like technology, are interested in a 
+  healthy diet, and have a well-paying job
